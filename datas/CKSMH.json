@@ -1,0 +1,42 @@
+{
+  "fullname": "中正紀念堂",
+  "code": "CKSMH",
+  "url": "https://www.cksmh.gov.tw/News_Actives_photo.aspx?n=6067\u0026sms=14954",
+  "item": [
+    {
+      "title": "田中達也特展-大師眼中的微型組合",
+      "address": "地點：1展廳",
+      "datetime": "日期：2025-01-10 ~ 2025-04-06",
+      "image": "https://event.culture.tw/mocweb/reg/userFiles/CKSMH/JpgFile/01/41258/AD/41258_0_0_339370.jpg",
+      "source": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=41258"
+    },
+    {
+      "title": "2025愛無界限 第七屆藝術展(免費參觀)",
+      "address": "地點：4展廳",
+      "datetime": "日期：2025-03-07 ~ 2025-03-30",
+      "image": "https://event.culture.tw/mocweb/reg/userFiles/CKSMH/JpgFile/01/50737/AD/50737_0_0_784269.jpg",
+      "source": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=50737"
+    },
+    {
+      "title": "第17屆台積電青年書法暨篆刻大賞得獎作品展(免費參觀)",
+      "address": "地點：三樓藝廊",
+      "datetime": "日期：2025-03-20 ~ 2025-04-16",
+      "image": "https://event.culture.tw/mocweb/reg/userFiles/CKSMH/JpgFile/01/50752/AD/50752_0_0_483923.jpg",
+      "source": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=50752"
+    },
+    {
+      "title": "昱刀瘤形–李昱進雕刻藝術創作展（免費參觀）",
+      "address": "地點：2展廳",
+      "datetime": "日期：2025-03-28 ~ 2025-04-21",
+      "image": "https://event.culture.tw/mocweb/reg/userFiles/CKSMH/JpgFile/01/50753/AD/50753_0_0_339770.jpg",
+      "source": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=50753"
+    },
+    {
+      "title": "陳國春八十書法回顧展(免費參觀)",
+      "address": "地點：3展廳",
+      "datetime": "日期：2025-03-28 ~ 2025-04-07",
+      "image": "https://event.culture.tw/mocweb/reg/userFiles/CKSMH/JpgFile/01/50757/AD/50757_0_0_925105.jpg",
+      "source": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=50757"
+    }
+  ]
+}
