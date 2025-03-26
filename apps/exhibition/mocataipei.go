@@ -35,18 +35,18 @@ func (MocaTaipei *MocaTaipei) getResponse() ([]byte, error) {
 	client := crawler.NewHttpClient()
 	getRequest, err := client.NewGet(MocaTaipei.Url)
 	if err != nil {
-		return nil, fmt.Errorf("新請求產生失敗:", err)
+		return nil, fmt.Errorf("新請求產生失敗: %w", err)
 	}
 	getRequest.Header.Add("user-agent", headers.Generate())
 	resp, err := client.Do(getRequest)
 	defer client.Close()
 	if err != nil {
-		return nil, fmt.Errorf("請求失敗:", err)
+		return nil, fmt.Errorf("請求失敗: %w", err)
 	}
 	defer resp.Body.Close()
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {
-		return nil, fmt.Errorf("讀取 Body 失敗:", err)
+		return nil, fmt.Errorf("讀取 Body 失敗: %w", err)
 	}
 	defer client.Close()
 	return data, nil
